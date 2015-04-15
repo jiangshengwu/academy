@@ -1,0 +1,5 @@
+!.gitignore
+/md/*
+/config.json
+/favicon.png
+/logo.png
