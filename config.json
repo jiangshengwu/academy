@@ -1,0 +1,52 @@
+{
+    "title": "Docker Academy",
+    "favicon": "favicon.png",
+    "logo": "assets/images/logo.png",
+    "page_number": 3,
+    "pages": [{
+        "title": "Start",
+        "terminal_visible": false,
+        "step_number": 1,
+        "container": {
+            "host": "127.0.0.1",
+            "name": "aaa"
+        },
+        "md_path": "md"
+    }, {
+        "title": "First",
+        "terminal_visible": true,
+        "step_number": 2,
+        "container": {
+            "host": "127.0.0.1",
+            "name": "aaa"
+        },
+        "md_path": "md"
+    }, {
+        "title": "Second",
+        "terminal_visible": true,
+        "step_number": 3,
+        "container": {
+            "host": "127.0.0.1",
+            "name": "aaa"
+        },
+        "md_path": "md"
+    }, {
+        "title": "Third",
+        "terminal_visible": true,
+        "step_number": 4,
+        "container": {
+            "host": "127.0.0.1",
+            "name": "aaa"
+        },
+        "md_path": "md"
+    }, {
+        "title": "End",
+        "terminal_visible": false,
+        "step_number": 1,
+        "container": {
+            "host": "127.0.0.1",
+            "name": "aaa"
+        },
+        "md_path": "md"
+    }]
+}
